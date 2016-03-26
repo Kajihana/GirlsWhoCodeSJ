@@ -7,7 +7,6 @@ But, if you do find things in here, it's probably what we did/ what our instruct
 
 Pocky Love <3
 
-Inline-style: 
 ![alt text](http://www.candyindustry.com/ext/resources/issues/2014-July/CIN_NewProd_0714_pocky_400px.jpg "Yum~")
 
 Thanks for reading~!
