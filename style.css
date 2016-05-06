@@ -16,6 +16,50 @@ h1 {
 }
 
 a {
+  tex.nav {
+  margin: auto;
   text-align: center;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  }
+
+.nav > div {
+  background: #0099CC;
+  float: left;
+  padding: 10px;
+  border: 4px striped aquamarine;
+  border-radius: 4px;
+}
+
+.nav > div:hover {  
+  height: 120%;
+  background: blue;
+}t-align: center;
   font-family: Roboto;
+}
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  }
+
+.nav > div {
+  background: #0099CC;
+  float: left;
+  padding: 10px;
+  border: 4px striped aquamarine;
+  border-radius: 4px;
+}
+
+.nav > div:hover {  
+  height: 120%;
+  background: blue;
 }
