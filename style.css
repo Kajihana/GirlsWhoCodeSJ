@@ -49,3 +49,10 @@ body {
 body {
   background-image: url("https://s-media-cache-ak0.pinimg.com/736x/58/e2/11/58e2114f0e453379d3388ed4827cc3de.jpg");
 }
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
